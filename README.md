@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 - 💻 I worked as on many personal projects with different tech stacks
 - 💁‍♂️ I also worked as a teacher asistant at The American University in Cairo
 - 🌱 I am currently improving myself in Competitive Programming and Machine Learning
-/*- 😎 Further more, I taught over 50 people the MERN tech stack!*/
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
+
+<!-- 😎 Further more, I taught over 50 people the MERN tech stack! -->
 
 <br />
 
