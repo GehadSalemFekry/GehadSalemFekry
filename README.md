@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 <!--
-**MKhasib/mkhasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Gehad Salem
-- 🔭 I have 1+ year of experince working as a volunteer software engineer with Enactus Alexandria
+- 🔭 I have 1+ year of experience working as a volunteer software engineer with Enactus Alexandria
 - 💻 I worked as on many personal projects with different tech stacks
-- 💁‍♂️ I also worked as a teacher asistant at The American University in Cairo
+- 💁‍♂️ I also worked as a Teacher Assistant at The American University in Cairo
 - 🌱 I am currently improving myself in Competitive Programming and Machine Learning
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
 
