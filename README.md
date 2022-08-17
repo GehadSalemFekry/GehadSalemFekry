@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&fontSize=50)
-
 <h1 align="center">Hi 👋, I'm Gehad Salem</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 <div align="center">
