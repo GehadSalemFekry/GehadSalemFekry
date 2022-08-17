@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=50)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&fontSize=50)
 
 <h1 align="center">Hi 👋, I'm Gehad Salem</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 <div align="center">
     <img src="Github.png" height="200" />
 </div>
-
 
 <div align="center">
     <a href="https://www.linkedin.com/in/gehad-salem/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,7 +13,6 @@
 </div>
 
 <br>
-
 
 <!--
 This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 😎 Further more, I taught over 50 people the MERN tech stack!
 -->
 <h1>About Me 📌</h1>
 
@@ -39,8 +37,6 @@ Here are some ideas to get you started:
 - 💁‍♂️ I also worked as a `Teacher Assistant` at The American University in Cairo
 - 🌱 I'm currently improving myself in `Competitive Programming` and `Machine Learning`
 - ⚡ Fun fact: I LOVE to play piano 🎹
-
-<!-- 😎 Further more, I taught over 50 people the MERN tech stack! -->
 
 <br />
 
@@ -64,4 +60,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
