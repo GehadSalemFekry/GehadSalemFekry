@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 -->
 <h1>About Me 📌</h1>
 
-- 👋 I'm a Computer Science student and a `Quantum Computing` enthusiast
-- 💻 I'm currently working as a Software Engineer intern at `Dell Technologies`
+- 👋 I'm master's student studying `Quantum Science and Technology`, and my bachelor's was in Computer Science and Mathematics
+- 💻 I worked as a Product Security Engineer at `noon`
 - 🔭 I have `2+ year` of experience working as a Software Engineer
 - 💁‍♂️ I also worked as a `Teacher Assistant` at The American University in Cairo
 - 🌱 I'm currently improving myself in `Competitive Programming` and `Quantum Computing`
@@ -43,19 +43,19 @@ Here are some ideas to get you started:
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=GehadSalemFekry&count_private=true&theme=dracula&hide_border=true" alt = "GehadSalemFekry's Contribution" width = 400 >
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=GehadSalemFekry&count_private=true&theme=dracula&hide_border=true" alt = "GehadSalemFekry's Contribution" width = 400 > -->
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=GehadSalemFekry&count_private=true&theme=dracula&hide_border=true" alt = "GehadSalemFekry's Rating" width = 400 >
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
  <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=GehadSalemFekry&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "GehadSalemFekry's Languages/Frameworks" width = 400 />
-</p>
+</p> -->
 
-<br />
+<!-- <br />
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/GehadSalemFekry/count.svg"></img>
-</div>
+</div> -->
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer)
